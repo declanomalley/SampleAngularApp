@@ -6,3 +6,4 @@
 * add success message on form submit
 * upload image to blob storage
 * add client side validation
+* add loading animation
