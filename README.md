@@ -1,5 +1,7 @@
 # SampleAngularApp
 
+sample angular 10 application using a .net core 3.0 azure function api endpoint.
+
 ## TODO
 * add datepicker to dob field
 * add business logic to class library
