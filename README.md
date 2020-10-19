@@ -1,6 +1,6 @@
 # SampleAngularApp
 
-sample angular 10 application using a .net core 3.0 azure function api endpoint.
+sample angular 10 application using a .net core 3.0 azure function api endpoint supporting get/patch/put/post and delete verbs.
 
 ## TODO
 * add datepicker to dob field
